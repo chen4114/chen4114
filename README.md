@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Yuheng (Chris) Chen @chen4114
+- 👀 I am a Graduate Research Assistant and Ph.D. student of Electrical and Computer Engineering at Purdue University.
+- 🌱 I currently focus on machine learning-assisted photonics and device optimization projects via computer vision.
+- 💞️ Here are some of my skills, experience, and features:
+-    5 years of full-time research experience from undergraduate to Ph.D., with a series of journal & conference papers, and national patents.
+-    2 years experience in the development of machine and deep learning frameworks for classical and quantum photonic applications. Experienced in algorithms design in Python, Java, C/C++, and Matlab.
+-    6 years of cleanroom working experience since undergraduate in the design, optimization, fabrication, and measurement of complex nanodevices prototypes. Skilled in assisted software like AutoCAD, Solidworks, Ansys, and Comsol. 
+-    Team-focused and industry-oriented. Strong interpersonal communication, and presentation skills.
+- 📫 More details please check my personal website: http://yh-chen.com/ Contact me free via chen4114@purdue.edu
